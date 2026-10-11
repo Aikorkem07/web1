@@ -1,5 +1,9 @@
 Burabay Travel — HTML Forms and Validation 
 
+Github Pages: https://aikorkem07.github.io/web1/
+
+Github link:https://github.com/Aikorkem07/web1.git
+
 Muktar Aikorkem IT-2513
 
 Project Description
