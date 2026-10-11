@@ -1,5 +1,5 @@
-Burabay Travel — HTML Forms and Validation
-
+Burabay Travel — HTML Forms and Validation 
+Muktar Aikorkem IT-2513
 Project Description
 
 Burabay Travel is a tourism website about Burabay, Kazakhstan. It provides information about tourist attractions, travel routes, and booking options. The project demonstrates HTML forms, HTML5 validation, Bootstrap styling, and JavaScript validation.
